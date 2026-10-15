@@ -1,0 +1,44 @@
+# Etapa 5 Matriz de síntese e organização da revisão
+
+## Solicitação
+
+Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas uma sequência de resumos.
+
+## Eixos da revisão
+
+1. Impacto Ambiental e Consumo de Recursos Naturais na IA (Medina et al. e Freitas & Ferreira)
+2. Impactos Psicológicos, Emocionais e Relações Humanas com a IA (Salazar-Garcés & Velastegui-Hernandez)
+
+## Matriz de síntese
+
+|Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
+|-|-|-|-|-|-|
+|Impacto Ambiental e Recursos Naturais|Artigo 1 (Medina et al., 2025); Artigo 2 (Freitas & Ferreira, 2026)|Ambos convergem ao apontar que a IA possui uma materialidade física pesada e consome volumes massivos de água e energia (mito da "nuvem invisível").|O Artigo 1 foca mais em dados práticos de consumo por comando (ex: água por mensagem/imagem), enquanto o Artigo 2 aprofunda a crítica teórica, sociológica e ecológica.|Dependência de estimativas externas e falta de transparência por parte das empresas desenvolvedoras de IA quanto aos números exatos.|Falta de estudos quantitativos atualizados sobre o impacto específico dos data centers operando diretamente no contexto da América Latina/Brasil.|
+|Impactos Psicológicos e Sociais|Artigo 3 (Salazar-Garcés & Velastegui-Hernandez, 2024)|Convergência na constatação de que a IA traz benefícios de suporte (accesso 24h), mas apresenta riscos graves devido à ausência de sentimentos reais.|Não há divergência interna expressa pois trata-se de um artigo único no eixo, mas contrapõe-se aos eixos ecológicos ao focar na mente humana.|Trata-se de uma mini revisão teórica rápida, sem testes empíricos práticos com pacientes reais em consultórios.|Falta de investigações a longo prazo sobre a dependência gerada em usuários e as consequências de decisões automatizadas em processos seletivos.|
+
+## Roteiro da revisão da literatura
+
+### Eixo 1
+
+* Ideia principal: Desmistificar a ideia de que a inteligência artificial é imaterial ou puramente digital, evidenciando o seu custo ecológico real através do consumo intensivo de água e eletricidade.
+* Evidências que serão usadas: Dados de que conversas com o ChatGPT gastam cerca de 500 ml de água a cada bloco de mensagens e a geração de uma única imagem gasta até 5 litros, além de milhares de litros consumidos no treinamento inicial dos modelos.
+* Comparação entre estudos: O estudo de Medina et al. (2025) e o de Freitas & Ferreira (2026) se complementam perfeitamente: o primeiro traz os dados práticos de consumo diário, enquanto o segundo fundamenta o problema utilizando conceitos sociológicos e ecológicos do antropoceno para criticar a ilusão da nuvem.
+* Ligação com o problema: Revela que o avanço tecnológico acelerado da IA gera um passivo ambiental invisível e urgente, exigindo responsabilidade ecológica e transparência das empresas.
+
+### Eixo 2
+
+* Ideia principal: Analisar os reflexos da inteligência artificial na saúde mental, nas emoções e nas relações humanas, contrapondo os benefícios da automação aos riscos de desumanização.
+* Evidências que serão usadas: O uso de assistentes virtuais, chatbots terapêuticos e sistemas automatizados de seleção de candidatos em empresas, destacando a disponibilidade contínua versus a frieza algorítmica.
+* Comparação entre estudos: Como este eixo é sustentado pelo Artigo 3 (Salazar-Garcés & Velastegui-Hernandez, 2024), ele atua como contraponto crítico aos aspectos puramente técnicos e ambientais, mostrando que o impacto da IA atinge diretamente a subjetividade e a confiança das pessoas.
+* Ligação com o problema: Demonstra que a substituição de interações humanas por robôs sem sentimentos gera riscos de dependência psicológica, injustiças em decisões automatizadas e dilemas éticos profundos.
+
+## Síntese crítica provisória
+
+A análise conjunta dos três artigos demonstra que a expansão da Inteligência Artificial Generativa possui consequências profundas que vão muito além da tela dos computadores. Por um lado, os estudos de Medina et al. (2025) e Freitas & Ferreira (2026) convergem ao expor a pesada pegada ecológica da tecnologia, destruindo o mito da "nuvem" inofensiva através de dados alarmantes sobre o consumo de água e energia. Por outro lado, o trabalho de Salazar-Garcés & Velastegui-Hernandez (2024) desloca o foco para a dimensão humana e psicológica, alertando sobre os perigos da dependência emocional e da frieza algorítmica. Nota-se como lacuna principal na literatura a falta de articulação sistêmica entre os custos ecológicos globais da infraestrutura de IA e seus impactos diretos na saúde mental e nas relações sociais cotidianas.
+
+## Checklist
+
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.

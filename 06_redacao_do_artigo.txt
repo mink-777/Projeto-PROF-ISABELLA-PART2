@@ -1,0 +1,61 @@
+# Etapa 6 Redação do artigo
+
+## Solicitação
+
+Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
+
+Considerando INTRODUÇÃO, METODOLOGIA, REVISÃO DA LITERATURA, SÍNTESE CRÍTICA, CONSIDERAÇÕES FINAIS E RESUMO, a escrita deve ter entre 600 a 700 palavras.
+
+# Título
+
+O Custo Invisível e Psicológico da Inteligência Artificial Generativa: Uma Revisão de Literatura
+
+## Palavras-chave
+
+Inteligência Artificial; Consumo de Recursos Naturais; Saúde Mental.
+
+## Introdução
+
+O avanço acelerado da Inteligência Artificial (IA) generativa transformou as rotinas do cotidiano moderno, criando a falsa sensação de que seus processos operam de maneira puramente imaterial. No entanto, o funcionamento constante dessa tecnologia demanda uma infraestrutura física massiva. Essa expansão oculta traz à tona um problema central: os impactos socioambientais da exploração intensiva de recursos naturais e os efeitos psicológicos decorrentes da interação contínua entre humanos e máquinas. Justifica-se este estudo pela necessidade de desmistificar a pretensa neutralidade da IA, avaliando suas implicações ecológicas e emocionais. O objetivo deste trabalho é analisar os custos ambientais e os reflexos na saúde mental humana associados ao ecossistema da inteligência artificial.
+
+## Metodologia
+
+Trata-se de uma revisão bibliográfica narrativa realizada a partir de artigos científicos e anais de eventos acadêmicos publicados entre os anos de 2024 e 2026. A busca concentrou-ess nas bases e repositórios acadêmicos do IFSC, IFSUL e MEDICIENCIAS UTA, aplicando termos relacionados a "inteligência artificial", "consumo de água", "pegada ecológica" e "impacto psicológico". Foram incluídos estudos que analisassem diretamente os custos materiais ou os aspectos emocionais da IA generativa, resultando na seleção e análise qualitativa de três artigos principais.
+
+## Revisão da literatura
+
+### Impacto Ambiental e Consumo de Recursos Naturais na IA
+
+Este eixo reúne as pesquisas de Medina et al. (2025) e Freitas e Ferreira (2026), que investigam a pegada ecológica oculta dos data centers. Medina et al. (2025) analisam o consumo direto de energia e água, destacando que prompts cotidianos em chatters de IA consomem até 500 ml de água potável por interação, enquanto a geração de uma única imagem pode exigir até 5 litros. Complementarmente, Freitas e Ferreira (2026) utilizam uma abordagem sociológica e ecológica para desmontar o mito da "nuvem", evidenciando que a etapa de treinamento do modelo GPT-3 consumiu 700 mil litros de água potável. Ambos os estudos revelam como limitação a opacidade das grandes corporações, que omitem dados exatos e forçam o uso de estimativas.
+
+### Impactos Psicológicos e Sociais da IA
+
+O estudo de Salazar-Garcés e Velastegui-Hernandez (2024) fundamenta este eixo ao discutir as consequências da automação na saúde mental e nas interações interpessoais. Por meio de uma mini revisão teórica, os autores analisam a presença de assistentes virtuais e chatbots terapêuticos, apontando que a disponibilidade contínua das máquinas oferece suporte imediato, mas acarreta riscos como a perda de empatia real, dependência emocional e fragilização de dados íntimos. A principal limitação do trabalho reside no caráter teórico, sem ensaios clínicos aplicados a pacientes.
+
+### Síntese crítica
+
+A convergência dos estudos demonstra que a IA não é imaterial nem inofensiva. Enquanto a dimensão ambiental evidencia o consumo excessivo de água e energia elétrica, a dimensão social alerta para a frieza algorítmica e a dependência psicológica. Observa-se como principal lacuna a ausência de trabalhos que integrem diretamente as perdas ecológicas aos impactos na qualidade de vida e saúde mental das comunidades afetadas pela infraestrutura tecnológica.
+
+## Considerações finais
+
+A investigação responde ao problema ao confirmar que a IA gera uma pesada pegada hídrica e energética, acompanhada de dilemas emocionais nas relações humanas. A análise permite reconhecer o custo concreto da tecnologia, embora esbarre na limitação da falta de dados empresariais e testes clínicos locais. Recomenda-se que pesquisas futuras investiguem indicadores ecológicos regionais dos data centers na América Latina e avaliem a longo prazo o impacto comportamental dos usuários de IA.
+
+## Resumo
+
+Diante da crescente expansão das tecnologias digitais, busca-se compreender os impactos ambientais e psicológicos decorrentes da Inteligência Artificial (IA) generativa. Esta revisão bibliográfica analisou três estudos publicados entre 2024 e 2026 sobre infraestrutura de data centers e saúde mental. Os resultados indicam que o processamento e o resfriamento de modelos de IA consomem volumes massivos de água potável e energia, ao passo que a convivência com algoritmos gera riscos éticos e emocionais. Conclui-se ser urgente promover a transparência corporativa e o desenvolvimento de diretrizes sustentáveis para o setor.
+
+## Referências
+
+FREITAS, S. L.; FERREIRA, V. L. D. A fase oculta da inteligência artificial: materialidade técnica, consumo de água e crítica ecológica no antropoceno. Anais do 9º Encontro de Ciência e Tecnologia do IFSUL - Câmpus Bagé, 2026.
+
+MEDINA, Raiza Silveira; ALESSI, Dieison Bruno; VELLOSO, Bruno Panerai. O custo invisível da inteligência artificial generativa: o uso intensivo de recursos naturais. Anais da Semana Nacional de Ciência e Tecnologia (SNCT), Instituto Federal de Santa Catarina (IFSC) – Câmpus Florianópolis, 2025.
+
+SALAZAR-GARCÉS, Luis Fabián; VELASTEGUI-HERNANDEZ, Diana Catalina. Inteligencia Artificial y su Impacto en la Psicología Humana: Mini Revisión. MEDICIENCIAS UTA, v. 8, n. 1, p. 26-34, 2024.
+
+## Checklist
+
+* [x] A introdução termina com o objetivo.
+* [x] A metodologia descreve o processo realmente realizado.
+* [x] A revisão compara os artigos.
+* [x] A conclusão responde ao problema.
+* [x] O resumo representa o texto completo.
